@@ -7,7 +7,7 @@
     <div class="flex flex-row gap-6">
       <!-- user details -->
       <div
-        class="w-[22.521rem] border border-border bg-white rounded flex flex-col shadow"
+        class="w-4/12 border border-border bg-white rounded flex flex-col shadow"
       >
         <div class="px-4 py-5 bg-[#212529] flex flex-row">
           <!-- avatar -->
@@ -47,7 +47,7 @@
 
       <!-- leave details -->
       <div
-        class="flex flex-col bg-white border border-border rounded w-[28.557rem] shadow"
+        class="flex flex-col bg-white border border-border rounded w-5/12 shadow"
       >
         <!-- title -->
         <div class="flex flex-row justify-between text-text-title px-4 py-5">
@@ -62,7 +62,7 @@
 
       <!-- leave summary -->
       <div
-        class="flex flex-col bg-white border border-border rounded w-[16.484rem] shadow"
+        class="flex flex-col bg-white border border-border rounded w-3/12 shadow"
       >
         <!-- title -->
         <div class="flex flex-row justify-between text-text-title px-4 py-5">
