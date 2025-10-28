@@ -22,6 +22,4 @@ const layout = computed(() => {
     return DefaultLayout;
   }
 });
-
-console.log(layout.value);
 </script>
